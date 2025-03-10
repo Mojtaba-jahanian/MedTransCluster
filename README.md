@@ -13,5 +13,7 @@ DOI: https://doi.org/10.1016/j.mlwa.2024.100535
 - Nafiseh Osati Eraghi ᵃ
 - Faraneh Zarafshan ᵇ
 
-ᵃ Department of Computer Engineering, Central Tehran Branch, Islamic Azad University, Tehran, Iran
-ᵇ Department of Computer Engineering, Tehran North Branch, Islamic Azad University, Tehran, Iran
+a
+Department of Computer, Arak Branch, Islamic Azad University, Arak, Iran
+b
+Department of Computer, Ashtian Branch, Islamic Azad University, Arak, markazi, Iran
