@@ -1,4 +1,4 @@
-# Medical Image Transfer Learning and Clustering Analysis
+# MedTransCluster: Transfer learning for deep medical image clustering
 
 ## Reference Paper
 [MedTransCluster: Transfer learning for deep medical image clustering] https://www.sciencedirect.com/science/article/pii/S2666521224000061
