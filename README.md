@@ -1,7 +1,7 @@
 # Medical Image Transfer Learning and Clustering Analysis
 
 ## Reference Paper
-[Chest X-ray image analysis using transfer learning and clustering methods](https://doi.org/10.1016/j.ibmed.2024.100139))
+[MedTransCluster: Transfer learning for deep medical image clustering]([https://doi.org/10.1016/j.ibmed.2024.100139)](https://doi.org/10.1016/j.ibmed.2024.100139))
 
 Published in: Machine Learning with Applications
 Volume 11, March 2024, 100535
