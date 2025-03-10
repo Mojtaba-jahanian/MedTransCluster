@@ -1,0 +1,4 @@
+Metric,Best Model,Best Method,Score
+Silhouette Score,DenseNet121,Hierarchical,0.12454249
+Calinski-Harabasz Score,InceptionV3,KMeans,566.8834
+Davies-Bouldin Score,VGG16,Hierarchical,6.196604514468807
